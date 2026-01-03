@@ -120,7 +120,7 @@
               "lines": [
                 "<span style=\"text-align:center;display:block\"><span style=\"font-size:36px;line-height:1.5\">**United States Emissions Breakdown**</span></span>\n",
                 "\n",
-                "<span style=\"text-align:center;display:block\"><span style=\"font-size: 14px;\">**This data was collected by the EPA (Environmental ProtectionAgency) in 2023</span><span style=\"font-size:12px\">.**</span></span>"
+                "<span style=\"text-align:center;display:block\"><span style=\"font-size:14px\">**This data was collected by the EPA (Environmental Protection Agency) in 2023</span><span style=\"font-size:12px\">.**</span></span>"
               ]
             }
           },
