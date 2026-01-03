@@ -65,4 +65,6 @@ The final dashboard comprises four primary visualizations:
 - The "Top 10" Impact: Just 10 states are responsible for over half of all emissions in the United States.
 - Population Paradox: Highly populated areas (like Los Angeles County) often show lower emissions per person compared to certain low-population industrial or energy-producing areas in regions like North Dakota or New England.
 
+
+
 <img width="1666" height="817" alt="image" src="https://github.com/user-attachments/assets/50f39e9f-a190-44b9-93bf-9bb8466d9bd7" />
