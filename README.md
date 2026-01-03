@@ -1,7 +1,7 @@
 # Databricks CSV-to-Dashboard Project 
 
 This project demonstrates a complete data engineering and analytics workflow using **Databricks Free Edition**, starting from a raw CSV file and ending with visualizations.  
-Using raw 2023 environmental data from the EPA, we perform data ingestion, SQL-based cleaning/transformations, and build an interactive dashboard to visualize the carbon footprint across the United States.
+Using raw 2023 environmental data from the EPA, performed data ingestion, SQL-based cleaning/transformations, and build an interactive dashboard to visualize the carbon footprint across the United States.
 
 
 
@@ -46,7 +46,7 @@ Each step is implemented using Databricks notebooks and native visualization too
 
 ## 📊 Step 3: Data Analysis
 
-- CTE for Market Share: A Common Table Expression to calculate what percentage of total US emissions the top 10 states account for (finding it to be 51%). [30:41]
+- CTE for Market Share: A Common Table Expression to calculate what percentage of total US emissions the top 10 states account for (finding it to be 51%).
 - Geospatial Data: Selecting Latitude and Longitude for point-map visualization.
 
 
