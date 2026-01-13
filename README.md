@@ -60,7 +60,7 @@ The final dashboard comprises four primary visualizations:
 4. Bar Chart: Identifies the top 10 counties with the highest megatons of CO2.
 
 
- ## 💡 Notable Findings
+ ## 💡 Key Takeaways
 
 - The "Top 10" Impact: Just 10 states are responsible for over half of all emissions in the United States.
 - Population Paradox: Highly populated areas (like Los Angeles County) often show lower emissions per person compared to certain low-population industrial or energy-producing areas in regions like North Dakota or New England.
